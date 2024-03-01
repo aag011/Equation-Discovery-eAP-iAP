@@ -1,4 +1,4 @@
-# Equation-Discovery-eAP-iAP
+# Equation Discovery to relate Intra-cellular and Extra-cellular Membrane Potentials
 
 ## Setting up the environment
 
