@@ -1,6 +1,6 @@
 # Equation-Discovery-eAP-iAP
 
-## Setting up your environment
+## Setting up the environment
 
 Run the following command to set up the environment for this experiment
 
