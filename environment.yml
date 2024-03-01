@@ -1,4 +1,4 @@
-name: Unet
+name: Equation
 channels:
   - pytorch
   - conda-forge
@@ -310,4 +310,4 @@ dependencies:
     - tf-estimator-nightly==2.8.0.dev2021122109
     - tf-keras-vis==0.8.4
     - tsaug==0.2.1
-prefix: /home/aag001/anaconda3/envs/Unet
+prefix: /home/aag001/anaconda3/envs/Equation
